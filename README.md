@@ -1,0 +1,2 @@
+# DoomBot
+Personal Discord bot
